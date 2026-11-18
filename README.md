@@ -1,5 +1,7 @@
 # Planner
 
+**Live: https://benhidangiu1408.github.io/planner/** (each push to `main` is deployed by GitHub Actions to GitHub Pages)
+
 A local-first planning web app built with Flutter. It covers planning at every range, from the next hour to the next few years:
 
 | View | Horizon | What it does |
